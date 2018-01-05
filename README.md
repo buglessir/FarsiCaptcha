@@ -1,6 +1,6 @@
 # php-farsi-captcha
 
-This is a simple PHP Captcha with farsi numbers
+This is a simple PHP Captcha with Farsi / Arabic numbers
 
 # How to use ?
 
