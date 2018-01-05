@@ -2,7 +2,7 @@
 
 This is a simple PHP Captcha with farsi numbers
 
-#How to use ?
+# How to use ?
 
 It's very easy to use, just add an image tag and set this src attribute to farsicaptcha.php
 
