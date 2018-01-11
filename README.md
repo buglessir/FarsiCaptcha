@@ -1,4 +1,4 @@
-## php-farsi-captcha
+## PHP Farsi Captcha
 
 This is a simple PHP Captcha with Farsi / Arabic numbers
 
